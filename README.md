@@ -14,4 +14,4 @@ Using your cloud server to access local device without public IP address (real I
 
 Server: installed on the server and listen on a specific port waiting the client version to connect. 
 
-Client: installed on the target PC/network. 
+Agent/Client: installed on the target PC/network. 
