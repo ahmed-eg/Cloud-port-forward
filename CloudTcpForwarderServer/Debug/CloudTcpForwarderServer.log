@@ -1,0 +1,3 @@
+﻿  tcp_server.cpp
+c:\onedrive\documents\visual studio 2017\projects\cloud\cloudtcpforwarderserver\tcp_server.cpp(55): warning C4101: 'valread': unreferenced local variable
+  CloudTcpForwarderServer.vcxproj -> c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\Debug\CloudTcpForwarderServer.exe

@@ -1,0 +1,10 @@
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Release\ManagementAgent.csprojResolveAssemblyReference.cache
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Release\ManagementAgent.MainForm.resources
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Release\ManagementAgent.Properties.Resources.resources
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Release\ManagementAgent.csproj.GenerateResource.Cache
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Release\ManagementAgent.csproj.CoreCompileInputs.cache
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\bin\Release\ManagementAgent.exe.config
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\bin\Release\ManagementAgent.exe
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\bin\Release\ManagementAgent.pdb
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Release\ManagementAgent.exe
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Release\ManagementAgent.pdb

@@ -1,0 +1,12 @@
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Release\WindowsServiceAgent.exe.config
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Release\WindowsServiceAgent.exe
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Release\WindowsServiceAgent.pdb
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Release\ManagementAgent.exe
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Release\ManagementAgent.pdb
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Release\ManagementAgent.exe.config
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\obj\Release\WindowsServiceAgent.csprojResolveAssemblyReference.cache
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\obj\Release\WindowsServiceAgent.ProjectInstaller.resources
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\obj\Release\WindowsServiceAgent.csproj.GenerateResource.Cache
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\obj\Release\WindowsServiceAgent.csproj.CoreCompileInputs.cache
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\obj\Release\WindowsServiceAgent.exe
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\obj\Release\WindowsServiceAgent.pdb

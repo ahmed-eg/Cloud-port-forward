@@ -1,0 +1,6 @@
+﻿  TestAPP.cpp
+c:\onedrive\documents\visual studio 2017\projects\cloud\testapp\testapp.cpp(61): warning C4101: 'recthandle0': unreferenced local variable
+c:\onedrive\documents\visual studio 2017\projects\cloud\testapp\testapp.cpp(62): warning C4101: 'recthreadid0': unreferenced local variable
+c:\onedrive\documents\visual studio 2017\projects\cloud\testapp\testapp.cpp(58): warning C4101: 'n': unreferenced local variable
+c:\onedrive\documents\visual studio 2017\projects\cloud\testapp\testapp.cpp(161): warning C4101: 'portno': unreferenced local variable
+  TestAPP.vcxproj -> c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\Debug\TestAPP.exe

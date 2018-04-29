@@ -1,0 +1,11 @@
+﻿  CloudTcpForwarderServer.cpp
+  tcp_server.cpp
+tcp_server.cpp(55): warning C4101: 'valread': unreferenced local variable
+  tcp_server_agent.cpp
+tcp_server_agent.cpp(120): warning C4101: 'valread': unreferenced local variable
+  Generating code
+  10 of 29 functions (34.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CloudTcpForwarderServer.vcxproj -> c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\Release\CloudTcpForwarderServer.exe

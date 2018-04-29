@@ -1,0 +1,87 @@
+﻿Installing assembly 'C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe
+   logfile = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.InstallLog
+Installing service Cloud Agent Service...
+Creating EventLog source Cloud Agent Service in log Application...
+Rolling back assembly 'C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe
+   logfile = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.InstallLog
+Restoring event log to previous state for source Cloud Agent Service.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe
+   logfile = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.InstallLog
+Installing service Cloud Agent Service...
+Creating EventLog source Cloud Agent Service in log Application...
+Rolling back assembly 'C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe
+   logfile = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.InstallLog
+Restoring event log to previous state for source Cloud Agent Service.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe
+   logfile = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.InstallLog
+Installing service Cloud Agent Service...
+Creating EventLog source Cloud Agent Service in log Application...
+Rolling back assembly 'C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe
+   logfile = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.InstallLog
+Restoring event log to previous state for source Cloud Agent Service.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.InstallLog
+   assemblypath = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe
+   logtoconsole = 
+Installing service Cloud Agent Service...
+Creating EventLog source Cloud Agent Service in log Application...
+Rolling back assembly 'C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.InstallLog
+   assemblypath = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe
+   logtoconsole = 
+Restoring event log to previous state for source Cloud Agent Service.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.InstallLog
+   assemblypath = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe
+   logtoconsole = 
+Installing service Cloud Agent Service...
+Service Cloud Agent Service has been successfully installed.
+Creating EventLog source Cloud Agent Service in log Application...
+Committing assembly 'C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.InstallLog
+   assemblypath = C:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\WindowsServiceAgent.exe
+   logtoconsole = 

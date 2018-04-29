@@ -1,0 +1,13 @@
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\bin\Debug\ManagementAgent.exe.config
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\bin\Debug\ManagementAgent.exe
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\bin\Debug\ManagementAgent.pdb
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Debug\ManagementAgent.MainForm.resources
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Debug\ManagementAgent.Properties.Resources.resources
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Debug\ManagementAgent.csproj.GenerateResource.Cache
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Debug\ManagementAgent.csproj.CoreCompileInputs.cache
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Debug\ManagementAgent.exe
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Debug\ManagementAgent.pdb
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\ManagementAgent\obj\Debug\ManagementAgent.csprojResolveAssemblyReference.cache
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\ManagementAgent.exe.config
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\ManagementAgent.exe
+c:\OneDrive\Documents\Visual Studio 2017\Projects\Cloud\WindowsServiceAgent\bin\Debug\ManagementAgent.pdb
